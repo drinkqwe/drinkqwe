@@ -1,4 +1,4 @@
-<h1 align="center">สวัสดีครับ ผม ปริพัฒน์ (Paripat Tasiruen) 👋</h1>
+<h1 align="center">สวัสดีครับ ผม ปริพัฒน์ (Paripat Taseeruen) 👋</h1>
 <h3 align="center">Full-stack Developer · System Analyst · Digital Media Automation · Chiang Mai 🇹🇭</h3>
 
 <p align="center">
